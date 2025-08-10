@@ -1,0 +1,79 @@
+14 files found in folder "Test/NPD R4 E10.3keV_2/"
+
+x_4_00001.tif	->	1/14 analyzed:
+focus position, pix.:		(348.367, 380.969)
+focus size (FWHM), um:		(4.343+/-0.017, 2.876+/-0.024)
+"_Test/NPD R4 E10.3keV_2/x_4_00001.tif.png"	- was saved as result!
+
+x_8_00001.tif	->	2/14 analyzed:
+focus position, pix.:		(369.217, 392.186)
+focus size (FWHM), um:		(20.929+/-1.963, 20.283+/-1.793)
+"_Test/NPD R4 E10.3keV_2/x_8_00001.tif.png"	- was saved as result!
+
+x_9_00001.tif	->	3/14 analyzed:
+focus position, pix.:		(344.356, 360.429)
+focus size (FWHM), um:		(12.741+/-0.242, 12.376+/-0.249)
+"_Test/NPD R4 E10.3keV_2/x_9_00001.tif.png"	- was saved as result!
+
+x_10_00001.tif	->	4/14 analyzed:
+focus position, pix.:		(329.396, 334.078)
+focus size (FWHM), um:		(9.038+/-0.080, 8.462+/-0.154)
+"_Test/NPD R4 E10.3keV_2/x_10_00001.tif.png"	- was saved as result!
+
+x_11_00001.tif	->	5/14 analyzed:
+focus position, pix.:		(483.420, 409.561)
+focus size (FWHM), um:		(6.924+/-0.053, 5.962+/-0.087)
+"_Test/NPD R4 E10.3keV_2/x_11_00001.tif.png"	- was saved as result!
+
+x_12_00001.tif	->	6/14 analyzed:
+focus position, pix.:		(382.306, 391.116)
+focus size (FWHM), um:		(5.120+/-0.027, 3.983+/-0.045)
+"_Test/NPD R4 E10.3keV_2/x_12_00001.tif.png"	- was saved as result!
+
+x_13_00001.tif	->	7/14 analyzed:
+focus position, pix.:		(333.128, 332.218)
+focus size (FWHM), um:		(4.365+/-0.017, 2.895+/-0.025)
+"_Test/NPD R4 E10.3keV_2/x_13_00001.tif.png"	- was saved as result!
+
+x_14_00001.tif	->	8/14 analyzed:
+focus position, pix.:		(358.024, 359.616)
+focus size (FWHM), um:		(4.237+/-0.012, 2.593+/-0.014)
+"_Test/NPD R4 E10.3keV_2/x_14_00001.tif.png"	- was saved as result!
+
+x_16_00001.tif	->	9/14 analyzed:
+focus position, pix.:		(465.667, 447.006)
+focus size (FWHM), um:		(4.893+/-0.014, 2.830+/-0.019)
+"_Test/NPD R4 E10.3keV_2/x_16_00001.tif.png"	- was saved as result!
+
+x_17_00001.tif	->	10/14 analyzed:
+focus position, pix.:		(419.083, 413.265)
+focus size (FWHM), um:		(5.313+/-0.018, 3.109+/-0.034)
+"_Test/NPD R4 E10.3keV_2/x_17_00001.tif.png"	- was saved as result!
+
+x_19_00001.tif	->	11/14 analyzed:
+focus position, pix.:		(407.335, 417.019)
+focus size (FWHM), um:		(5.913+/-0.024, 3.594+/-0.060)
+"_Test/NPD R4 E10.3keV_2/x_19_00001.tif.png"	- was saved as result!
+
+x_20_00001.tif	->	12/14 analyzed:
+focus position, pix.:		(437.108, 444.578)
+focus size (FWHM), um:		(6.569+/-0.030, 4.546+/-0.104)
+"_Test/NPD R4 E10.3keV_2/x_20_00001.tif.png"	- was saved as result!
+
+x_22_00001.tif	->	13/14 analyzed:
+focus position, pix.:		(353.268, 356.369)
+focus size (FWHM), um:		(8.537+/-0.048, 8.379+/-0.244)
+"_Test/NPD R4 E10.3keV_2/x_22_00001.tif.png"	- was saved as result!
+
+x_24_00001.tif	->	14/14 analyzed:
+focus position, pix.:		(397.002, 401.172)
+focus size (FWHM), um:		(11.890+/-0.104, 12.763+/-0.622)
+"_Test/NPD R4 E10.3keV_2/x_24_00001.tif.png"	- was saved as result!
+
+"_Test/NPD R4 E10.3keV_2/_DOF_results_of_14im_lp180x1pix.png"	->	DOF summary results was saved!
+
+Minimun focus size (FWHM)
+x_14_00001.tif:	4.237+/-0.012 um	->	min. hor. size
+L2 = 0.404m
+x_14_00001.tif:	2.593+/-0.014 um	->	min. ver. size
+L2 = 0.404m
